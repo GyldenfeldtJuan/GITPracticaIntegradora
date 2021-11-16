@@ -1,6 +1,10 @@
 probando los cambios en los archivos de git
 
+<<<<<<< HEAD
 
 
 
 Juan Arellano estuvo aquí!
+=======
+Juan Gyldenfeldt Estuvo Aqui >:)
+>>>>>>> bf6941c (trabajando en el mismo archivo)
